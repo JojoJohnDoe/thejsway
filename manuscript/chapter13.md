@@ -6,7 +6,7 @@ This chapter will help you discover how a web page is shown by a browser.
 
 * A **web page** is a structured document containing both text and HTML tags. The **DOM**, or *Document Object Model*, is a standardized way to define a web page's structure.
 
-* Tho DOM is also an **API** allowing programmatical interactions with the web page. With JavaScript, you can access the structure of a page displayed in a browser and modify it.
+* The DOM is also an **API** allowing programmatical interactions with the web page. With JavaScript, you can access the structure of a page displayed in a browser and modify it.
 
 * The DOM represents a web page as a hierarchy of **objects**, where each object corresponds to a node in the nested HTML element tree.
 
